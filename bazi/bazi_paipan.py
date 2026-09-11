@@ -15,9 +15,9 @@ bazi_paipan.py — 八字排盘工具（公历/农历生日 → 四柱、十神�
     同我 = 比劫
 
 用法：
-    python3 bazi_paipan.py 2003-04-10 18:00          # 公历 + 24h制
+    python3 bazi_paipan.py 1988-05-20 08:00          # 公历 + 24h制
     python3 bazi_paipan.py 1998-07-04 12:00 --gender 男
-    python3 bazi_paipan.py 2003-04-10 18:00 --liunian 2026
+    python3 bazi_paipan.py 1988-05-20 08:00 --liunian 2026
 """
 
 import argparse

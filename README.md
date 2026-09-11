@@ -14,7 +14,7 @@
 pip install lunar_python
 
 python3 bazi/bazi_paipan.py 1998-07-04 12:00 --gender 男
-python3 bazi/bazi_paipan.py 2003-04-10 18:00 --gender 男 --liunian 2026
+python3 bazi/bazi_paipan.py 1988-05-20 08:00 --gender 男 --liunian 2026
 ```
 
 输出示例：
