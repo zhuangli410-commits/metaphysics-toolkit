@@ -1,4 +1,18 @@
-# metaphysics-toolkit · 命理技术工具集
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-纯本地_·_零依赖-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+
+# metaphysics-toolkit
+
+**排盘不问命 —— 八字排盘 + 六爻纳甲装卦。**
+
+工具只负责把盘排对。断命这事，别赖工具。
+
+![Python](https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white)
+![offline](https://img.shields.io/badge/网络依赖-零-4CAF50?style=flat-square&logo=cloudflare&logoColor=white)
+![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square&logo=opensourceinitiative&logoColor=white)
+
+</div>
 
 面向命理学习者与开发者的开源工具集：**八字排盘** 与 **六爻纳甲装卦** 两个独立小工具，纯本地运行，无任何网络依赖。
 
@@ -93,3 +107,9 @@ python3 liuyao/liuyao_najia.py 阳阳阳阳阳老阴 --date 2026-09-10
 ## License
 
 MIT
+
+---
+
+<div align="center">
+<sub>由 <b>李卓扬 · Aktive</b> 构建 · <a href="https://github.com/zhuangli410-commits">更多项目</a> · <a href="https://li-zhuoyang-ai-product-builder.zhuangli410.chatgpt.site">完整作品集</a></sub>
+</div>
