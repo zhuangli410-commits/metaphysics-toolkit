@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-纯本地_·_零依赖-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-
 # metaphysics-toolkit
 
-**排盘不问命 —— 八字排盘 + 六爻纳甲装卦。**
+八字排盘和六爻纳甲装卦，纯本地跑，不联网。
 
-工具只负责把盘排对。断命这事，别赖工具。
+十神逻辑是自己写的，大运顺逆排过三个已知命例校对。工具只负责把盘排对，断命的事别赖它。
 
 ![Python](https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white)
 ![offline](https://img.shields.io/badge/网络依赖-零-4CAF50?style=flat-square&logo=cloudflare&logoColor=white)
@@ -111,5 +109,5 @@ MIT
 ---
 
 <div align="center">
-<sub>由 <b>李卓扬 · Aktive</b> 构建 · <a href="https://github.com/zhuangli410-commits">更多项目</a> · <a href="https://li-zhuoyang-ai-product-builder.zhuangli410.chatgpt.site">完整作品集</a></sub>
+<sub><a href="https://github.com/zhuangli410-commits">李卓扬 Aktive</a> · <a href="https://li-zhuoyang-ai-product-builder.zhuangli410.chatgpt.site">作品集</a> · 有想知道的事，<a href="https://gongfu.youjixiezuo.top/#ask">问 SG Agent</a></sub>
 </div>
